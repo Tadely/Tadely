@@ -1,4 +1,9 @@
-## Hello Everyone 👋
+## Olutade Dele 👋
+
+Computer Science graduate student at Northeastern Illinois University
+  Programming: Java, Python
+Professional engagement: Music,
+  
 
 <!--
 **Tadely/Tadely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
